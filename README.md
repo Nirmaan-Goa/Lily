@@ -1,4 +1,4 @@
-# RHoK
+# Project Lily
 
 The project is aimed at creating an application to gauge the safety index of an area in a particular city. It has been designed to benefit women in India by giving them real time information about any place in their city.
 
